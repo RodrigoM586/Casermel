@@ -122,6 +122,12 @@ html_theme_options = {
     'titles_only': False
 }
 
+html_context = {
+"display_github": False, # Add 'Edit on Github' link instead of 'View page source'
+"last_updated": True,
+"commit": False,
+}
+
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
