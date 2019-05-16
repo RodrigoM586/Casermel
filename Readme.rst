@@ -1,8 +1,4 @@
 
-********************************************
-CASERMEL Arquivo
-********************************************
-	
 Bem vindo ao arquivo documental da CASERMEL! 
 
 Esta página têm por objetivo documentar e servir como arquivo dos vários documentos necessários à apicultura, direta ou indiretamente. 
@@ -35,7 +31,7 @@ Este documento foi estruturado da seguinte forma:
 Contribuição
 ============
 
-Caso pretenda contribuír no melhoramento deste documento, por favor `envie-nos um email com as suas sugestões.
+Caso pretenda contribuír no melhoramento deste documento, por favor `envie-nos um email com as suas sugestões
 <apoio@casermel.pt>`__.
 
 Qualquer e toda a ajudar é bem vinda! 
