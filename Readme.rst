@@ -36,6 +36,6 @@ Caso pretenda contribuír no melhoramento deste documento, por favor `envie-nos 
 
 Qualquer e toda a ajuda é bem vinda! 
 
-
+.. image:: Imagens/casermel_logo.jpg
 
 
