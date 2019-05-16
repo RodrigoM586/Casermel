@@ -12,7 +12,24 @@ CASERMEL | Apoio
 .. toctree::
    :maxdepth: 1
    :numbered:
-   :caption: Documentação
+   :caption: Apicultura
+   
+   Apicultura/
+ 
+.. toctree::
+   :maxdepth: 1
+   :numbered:
+   :caption: Legislação
+   
+   Legislacao/
+   
+.. toctree::
+   :maxdepth: 1
+   :numbered:
+   :caption: Modelos/Anexos
+   
+   Modelos/
+
 
 
    
