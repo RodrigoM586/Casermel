@@ -32,8 +32,7 @@ Este documento foi estruturado da seguinte forma:
 Contribuição
 ============
 
-Caso pretenda contribuír no melhoramento deste documento, por favor `envie-nos um email com as suas sugestões
-<apoio@casermel.pt>`__.
+Caso pretenda contribuír no melhoramento deste documento, por favor `envie-nos um email <apoio@casermel.pt>`com as suas sugestões.
 
 Qualquer e toda a ajudar é bem vinda! 
 
