@@ -2,7 +2,7 @@
 Bem vindo ao arquivo documental da CASERMEL! 
 
 Esta página têm por objetivo documentar e servir como arquivo dos vários documentos necessários à apicultura, direta ou indiretamente, 
-e pretende ser um complemento ao site da `CASERMEL <https://www.casermel.pt>`.
+e pretende ser um complemento ao site da `CASERMEL <https://www.casermel.pt>`__.
 
 Esta página visa propocionar aos seus visitantes um auxílio na procura de informação relacioanda com o mundo da apicultura regional.
 
@@ -32,7 +32,7 @@ Este documento foi estruturado da seguinte forma:
 Contribuição
 ============
 
-Caso pretenda contribuír no melhoramento deste documento, por favor `envie-nos um email <apoio@casermel.pt>`com as suas sugestões.
+Caso pretenda contribuír no melhoramento deste documento, por favor `envie-nos um email <apoio@casermel.pt>`__ com as suas sugestões.
 
 Qualquer e toda a ajudar é bem vinda! 
 
