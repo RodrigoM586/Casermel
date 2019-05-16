@@ -16,15 +16,15 @@ Estrutura
 
 Este documento foi estruturado da seguinte forma:
 
--  **Apicultra**;
+-  **Apicultra**
   
 	.. note:: É pretendido, de uma forma geral, apresentar assuntos relacionados com a apicultura. 
 
--  **Legislação**;
+-  **Legislação**
   
-	 .. note:: Esta seção têm como objetivo agregar toda a legislação nacional, ou regional, da apicultura.
+	 .. note:: Esta seção têm como objetivo agregar toda a legislação nacional e/ou regional, da apicultura.
 	 
--  **Modelos**;
+-  **Modelos**
   
 	 .. note:: A seção "modelos" pretende agregar num só sítio todos os modelos referênciados nos diversos decretos de lei. 
 
@@ -34,7 +34,7 @@ Contribuição
 
 Caso pretenda contribuír no melhoramento deste documento, por favor `envie-nos um email <apoio@casermel.pt>`__ com as suas sugestões.
 
-Qualquer e toda a ajudar é bem vinda! 
+Qualquer e toda a ajuda é bem vinda! 
 
 
 
