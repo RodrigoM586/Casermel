@@ -26,8 +26,14 @@
 .. toctree::
    :maxdepth: 1
    :numbered:
-   :caption: Modelos / Anexos
+   :caption: Modelos
    
+   Modelos/DeclaInicioAtiviidade.rst
+   Modelos/geral.rst
+   Modelos/geral.rst
+   Modelos/geral.rst
+   Modelos/geral.rst
+   Modelos/geral.rst
    Modelos/geral.rst
 
 
