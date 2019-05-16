@@ -1,12 +1,13 @@
 
 Bem vindo ao arquivo documental da CASERMEL! 
 
-Esta página têm por objetivo documentar e servir como arquivo dos vários documentos necessários à apicultura, direta ou indiretamente. 
+Esta página têm por objetivo documentar e servir como arquivo dos vários documentos necessários à apicultura, direta ou indiretamente, 
+e pretende ser um complemento ao site da `CASERMEL <www.casermel.pt>`.
 
 Esta página visa propocionar aos seus visitantes um auxílio na procura de informação relacioanda com o mundo da apicultura regional.
 
 .. tip:: Através do painel lateral esquerdo é possível procurar, 
-			consoante o tópico, um assunto específico bastante para isso um clique. 
+			consoante o tópico, um assunto específico. 
 		
 .. _readthedocs.org: http://www.readthedocs.org
 
