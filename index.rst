@@ -14,21 +14,21 @@
    :numbered:
    :caption: Apicultura
    
-   Apicultura/
+   Apicultura/geral.rst
  
 .. toctree::
    :maxdepth: 1
    :numbered:
    :caption: Legislação
    
-   Legislacao/
+   Legislacao/geral.rst
    
 .. toctree::
    :maxdepth: 1
    :numbered:
    :caption: Modelos/Anexos
    
-   Modelos/
+   Modelos/geral.rst
 
 
 
