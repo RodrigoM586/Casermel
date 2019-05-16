@@ -21,7 +21,7 @@
    :numbered:
    :caption: Legislação
    
-   Legislacao/geral.rst
+   Legislação/geral.rst
    
 .. toctree::
    :maxdepth: 1
