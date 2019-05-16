@@ -35,10 +35,10 @@ Este documento foi estruturado da seguinte forma:
 Contribuição
 ============
 
-Caso pretenda contribuír no melhoramento deste documento, por favor `envie um email 
+Caso pretenda contribuír no melhoramento deste documento, por favor `envie-nos um email com as suas sugestões.
 <apoio@casermel.pt>`__.
 
-Toda a ajudar é bem vinda! 
+Qualquer e toda a ajudar é bem vinda! 
 
 
 
