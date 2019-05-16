@@ -11,21 +11,18 @@
 
 .. toctree::
    :maxdepth: 1
-   :numbered:
    :caption: Apicultura
    
    Apicultura/geral.rst
  
 .. toctree::
    :maxdepth: 1
-   :numbered:
    :caption: Legislação
    
    Legislação/geral.rst
    
 .. toctree::
    :maxdepth: 1
-   :numbered:
    :caption: Modelos
    
    Modelos/DeclaInicioAtiviidade.rst
