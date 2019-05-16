@@ -17,7 +17,7 @@ Esta página visa propocionar aos seus visitantes um auxílio na procura de info
 Estrutura
 ==========
 
-Este documento foi estruturado por departamentos:
+Este documento foi estruturado da seguinte forma:
 
 -  **Apicultra**;
   
