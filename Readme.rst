@@ -1,8 +1,8 @@
 
 Bem vindo ao arquivo documental da CASERMEL! 
 
-Esta página têm por objetivo documentar e servir como arquivo dos vários documentos necessários à apicultura, direta ou indiretamente, 
-e pretende ser um complemento ao site da `CASERMEL <https://www.casermel.pt>`__.
+Esta página têm por objetivo documentar e servir como arquivo dos vários documentos necessários à apicultura, 
+bem como ser um complemento ao site da `CASERMEL <https://www.casermel.pt>`__.
 
 Esta página visa propocionar aos seus visitantes um auxílio na procura de informação relacioanda com o mundo da apicultura regional.
 
@@ -18,15 +18,15 @@ Este documento foi estruturado da seguinte forma:
 
 -  **Apicultra**
   
-	.. note:: É pretendido, de uma forma geral, apresentar assuntos relacionados com a apicultura. 
+	.. note:: É pretendido de uma forma geral, apresentar assuntos relacionados com a apicultura. 
 
 -  **Legislação**
   
-	 .. note:: Esta seção têm como objetivo agregar toda a legislação nacional e/ou regional, da apicultura.
+	 .. note:: Esta seção têm como objetivo agregar toda a legislação nacional e/ou regional.
 	 
 -  **Modelos**
   
-	 .. note:: A seção "modelos" pretende agregar num só sítio todos os modelos referênciados nos diversos decretos de lei. 
+	 .. note:: Aqui poderá encontrar todos os documentos, sejam eles modelos ou anexos, da legislação em vigor. 
 
 
 Contribuição
