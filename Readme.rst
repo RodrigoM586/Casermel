@@ -1,4 +1,6 @@
 
+.. image:: Imagens/casermel_logo.jpg
+
 Bem vindo ao arquivo documental da CASERMEL! 
 
 Esta página têm por objetivo documentar e servir como arquivo dos vários documentos necessários à apicultura, 
@@ -36,6 +38,5 @@ Caso pretenda contribuír no melhoramento deste documento, por favor `envie-nos 
 
 Qualquer e toda a ajuda é bem vinda! 
 
-.. image:: Imagens/casermel_logo.jpg
 
 
