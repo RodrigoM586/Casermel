@@ -7,23 +7,15 @@ Esta seção alberga todos os apoios atualmente em vigor para pessoas singulares
 PROAMAF : Portaria n.º 43/2018 de 23 de abril de 2018
 ===========================================================
 
-Descarregar versão PDF
------------------------------------
 
-Para descarregar o ficheiro PDF, clique em:
-:download:`Portaria n.º 43/2018 de 23 de abril de 2018 <files/Portaria n43_2018 de 23abr.pdf`.
-
-
-Artigo 1.º 
------------------------------------
-
+``Artigo 1.º ``
 ``Objeto``
 
 A presente portaria estabelece o Programa de Apoio à Modernização Agrícola e Florestal, PROAMAF.
 
 
-Artigo 5.º
------------------------------------
+``Artigo 5.º``
+
 
 Investimentos elegíveis
 1 - São elegíveis os equipamentos que constam do anexo I da presente Portaria e que dela faz parte
@@ -49,12 +41,17 @@ desenvolvimento rural, numa base de caso a caso, considerando sempre uma avalia�
 razoabilidade técnica e mediante a apresentação de provas pertinentes.
 
 ``Artigo 7.º ``
------------------------------------
 
 Forma e valor dos apoios
 Os apoios são atribuídos sob a forma de subvenção não reembolsável, no valor de 50% do montante
 do investimento elegível, calculado de acordo com os montantes máximos elegíveis previstos no anexo I
 da presente portaria e que dela faz parte integrante.
+
+Descarregar versão PDF
+-----------------------------------
+
+Para descarregar o ficheiro PDF, clique em:
+:download:`Portaria n.º 43/2018 de 23 de abril de 2018 <files/Portaria n43_2018 de 23abr.pdf>`.
 
 
 
