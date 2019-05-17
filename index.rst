@@ -19,7 +19,8 @@
    :maxdepth: 1
    :caption: Legislação
    
-   Legislação/geral.rst
+   Legislação/RegimeJuridico.rst
+   Legislação/ApoiosApicultor.rst
    
 .. toctree::
    :maxdepth: 1

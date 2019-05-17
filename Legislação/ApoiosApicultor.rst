@@ -19,7 +19,7 @@ Resumo
 	
 	3º- O investimento;
 	
-	4º- O pedido de pagamento; 5º- o pagamento.
+	4º- O pedido de pagamento; 5º- o pagamento;
 
 - Só pode ser apresentado um pedido de pagamento, por cada pedido de apoio/candidatura.
 
