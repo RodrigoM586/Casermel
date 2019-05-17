@@ -7,15 +7,17 @@ Esta seção alberga todos os apoios atualmente em vigor para pessoas singulares
 Resumo
 ===========================================================
 
-- Os beneficiários podem apresentar até 2 pedidos de apoio/candidaturas por ano,
-de 200,00€ até 3.000,00€, valores sem iva.
+- Os beneficiários podem apresentar até 2 pedidos de apoio/candidaturas por ano, de 200,00€ até 3.000,00€, valores sem iva.
 
 - O prazo de pedido de apoio/candidatura decorre de janeiro até novembro.
 
 - A sequência do processo é a seguinte:
 	1º- Candidatura/pedido de apoio; 
+	
 	2º- Aprovação/termo aceitação; 
+	
 	3º- O investimento;
+	
 	4º- O pedido de pagamento; 5º- o pagamento.
 
 - Só pode ser apresentado um pedido de pagamento, por cada pedido de apoio/candidatura.
