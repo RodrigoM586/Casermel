@@ -12,6 +12,7 @@ Resumo
 - O prazo de pedido de apoio/candidatura decorre de janeiro até novembro.
 
 - A sequência do processo é a seguinte:
+
 	1º- Candidatura/pedido de apoio; 
 	
 	2º- Aprovação/termo aceitação; 
