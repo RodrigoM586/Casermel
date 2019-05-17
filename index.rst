@@ -28,11 +28,6 @@
    
    Modelos/DeclaInicioAtiviidade.rst
    Modelos/ComunicaDeslocacao.rst
-   Modelos/geral.rst
-   Modelos/geral.rst
-   Modelos/geral.rst
-   Modelos/geral.rst
-   Modelos/geral.rst
 
 
 
