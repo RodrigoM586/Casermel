@@ -1,6 +1,0 @@
-***************
-Iniciantes
-***************
-
-Em desenvolvimento....
-
