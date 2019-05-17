@@ -5,7 +5,8 @@ Regime Jurídico
 Resumo
 =============================================================================
 
-``Regime jurídico da actividade apícola e da produção, transformação e comercialização de mel na Região Autónoma dos Açores``
+``Regime jurídico da actividade apícola e da produção, transformação e 
+comercialização de mel na Região Autónoma dos Açores``
 
 A actividade apícola na Região Autónoma dos Açores representa um sector em expansão, cuja importância económica e social tende a assumir um papel crescente no desenvolvimento regional.
 
